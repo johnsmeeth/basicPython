@@ -28,5 +28,5 @@ def resolveEquationLevel2():
     else:
         x1 = -b + math.sqrt(delta) / 2 * a
         x2 = -b - math.sqrt(delta) / 2 * a
-        print "the equation has two separate root"
+        print "the equation has two separate root x1: %f, x2: %f" %(x1, x2)
 resolveEquationLevel2()
