@@ -1,0 +1,4 @@
+# My first shell
+# clear terminal the write a text
+clear
+echo "Hello world from linux shell !"
